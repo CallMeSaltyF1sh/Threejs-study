@@ -61,7 +61,7 @@ function init() {
 
     //add gui
     var controls = new function() {
-        //添加希望通过data.GUI改变的属性
+        //添加希望通过dat.GUI改变的属性
         this.rotationSpeed = 0.02;  //默认值
         this.bouncingSpeed = 0.03;
     };
